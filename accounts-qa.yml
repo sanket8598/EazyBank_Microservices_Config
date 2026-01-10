@@ -5,7 +5,8 @@ accounts:
   message: "Welcome to EazyBank accounts related qa APIs"
   contactDetails:
     name: "Sanket Vakankar"
-    email: "sanketwakankar8@gmail.com"
+    email: "{cipher}4c403698444d0ca15db4003a347f616caa8037587caa32ab798515d7be975b2b53b12000a76a6a0251ae874cc0f79c22"
   onCallSupport:
     - (555) 555-1324
     - (555) 555-3456
+
