@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "Sanket Vakankar"
+    email: "sanketwakankar8@gmail.com"
+  onCallSupport:
+    - (555) 555-1324
+    - (555) 555-3456
