@@ -2,11 +2,12 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs"
+  message: "Welcome to EazyBank accounts related production APIs"
   contactDetails:
     name: "Sanket Vakankar"
-    email: "{cipher}4c403698444d0ca15db4003a347f616caa8037587caa32ab798515d7be975b2b53b12000a76a6a0251ae874cc0f79c22"
+    email: "{cipher}e81a17fa336f4b3f71f89a6e8648baa7bfc04136f1fae89241e54b1fb2e4c168087ccb4d68cd20fa361a47201446558a"
   onCallSupport:
     - (555) 555-1324
 
     - (555) 555-3456
+
