@@ -1,8 +1,8 @@
 build:
-  version: 3.5
+  version: 3.0
 
 cards:
-  message: "Welcome to EazyBank cards related default APIs"
+  message: "Welcome to EazyBank cards related docker APIs"
   contactDetails:
     name: "Sanket Vakankar"
     email: "sanketwakankar8@gmail.com"
